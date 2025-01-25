@@ -1,0 +1,10 @@
+theme = "tokyonight_storm"
+
+[editor]
+rulers = [80, 120]
+bufferline = "multiple"
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "underline"
